@@ -1,0 +1,31 @@
+p {
+    margin-top: 1em;
+}
+
+
+
+body{
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 1em;
+    background-color: gainsboro;
+    
+}
+
+img{
+    width: 75%;
+}
+
+.main-text {
+    font-family: monospace;
+}
+
+.project-list{
+    margin-top: 4em;   
+}
+
+.project-links {
+    color: black;
+    
+}
+
