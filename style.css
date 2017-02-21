@@ -13,7 +13,7 @@ body{
 }
 
 img{
-    width: 100%;
+    width: 75%;
 }
 
 .main-text {
@@ -22,7 +22,6 @@ img{
 
 .project-list{
     margin-top: 4em;
-    color: aqua;
 }
 
 .project-links {
