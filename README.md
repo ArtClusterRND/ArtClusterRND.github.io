@@ -1,2 +1,2 @@
-# ArtClusterRND.github.io
+# clusterrnd.github.io
 website
