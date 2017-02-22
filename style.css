@@ -17,9 +17,17 @@ body{
     font-family: monospace;
 }
 
+.main-part{
+    margin-top: 4em;
+    padding: 2em;
+}
+
 .project-list{
     margin-top: 4em;
+    padding: 1em;
+    border: solid;
 }
+
 
 .project-links {
     color: black;
